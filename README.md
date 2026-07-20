@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ashikur Rahaman:
-🔭 I’m currently working on full-stack web applications.<br>🌱 I’m deeply exploring advanced backend concepts, optimization, and state management.<br>💬 Ask me about **React, Node.js, Express, and MongoDB**.<br>📫 How to reach me: ashikurrahaman99988@gmail.com
+🔭 I’m currently working on full-stack web applications.<br>🌱 I’m deeply exploring advanced backend concepts, optimization, and state management.<br>💬 Ask me about **React, Node.js, Express, and MongoDB (MERN)**.<br>📫 How to reach me: ashikurrahaman99988@gmail.com
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
